@@ -663,4 +663,8 @@
     border: 0;
 }
 
+.logo {
+    max-width: 200px; /* Adjust the logo size */
+    max-height: 110px;
+}
 /*** Footer End ***/
