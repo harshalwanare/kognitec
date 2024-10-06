@@ -1,0 +1,4 @@
+User-agent: *  # Applies to all search engines
+Disallow:       # Allows all pages to be crawled
+
+Sitemap: https://www.korpsolutions.com/sitemap.xml  # Location of the sitemap
